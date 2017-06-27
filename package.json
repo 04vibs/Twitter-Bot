@@ -1,0 +1,14 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "A bot to post tweets on twitter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agampreet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
